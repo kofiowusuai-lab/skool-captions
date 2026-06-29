@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Sample caption renderer",
+    "startMs": 0,
+    "endMs": 1300,
+    "timestampMs": 650,
+    "confidence": 1
+  },
+  {
+    "text": "Replace this JSON with your transcript",
+    "startMs": 1350,
+    "endMs": 2800,
+    "timestampMs": 2075,
+    "confidence": 1
+  },
+  {
+    "text": "Render with npm run render",
+    "startMs": 2850,
+    "endMs": 3900,
+    "timestampMs": 3375,
+    "confidence": 1
+  }
+]
